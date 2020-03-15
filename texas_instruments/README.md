@@ -46,6 +46,10 @@ connmanctl> quit
 ssh debian@192.168.7.2
 default Password: temppwd
 ```
+### Tidl Example
+```python
+sudo apt-get install ti-tidl
+```
 
 ### Documentation
 [Processor SDK - Linux - Software Developer's Guide](http://software-dl.ti.com/processor-sdk-linux/esd/docs/latest/linux/Overview_Building_the_SDK.html)
